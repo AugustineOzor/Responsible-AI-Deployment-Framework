@@ -3,7 +3,9 @@
 ## Project Overview
 
 **Organization:** GlobalBank Digital Services (Hypothetical Enterprise)
+
 **System:** AI-Powered Customer Advisory Assistant
+
 **Project Goal:** Create a pre-deployment governance framework that evaluates whether an AI system is ready for production use by assessing privacy, fairness, transparency, security, accountability, reliability, and human oversight controls.
 
 The framework combines a governance checklist, an automated scoring engine, a risk classification methodology, a deployment workflow, approval gates, audit evidence requirements, and monitoring and review procedures. It is designed to ensure that AI systems meet Responsible AI requirements before deployment and remain compliant throughout their lifecycle.
