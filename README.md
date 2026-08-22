@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="banner.png" alt="Responsible AI Deployment Framework banner" width="100%">
-</p>
+<img width="2400" height="600" alt="banner" src="https://github.com/user-attachments/assets/46ac5453-8e49-4d41-ad6f-87ad292ecbad" />
+
 
 # Responsible AI Deployment Framework
 
